@@ -4,5 +4,5 @@
 **Source code**
 
 
-[Hanka Git](https://github.com/HankaK-git/Digital-electronics-1/edit/main/README.md)
+[Hanka Git](https://github.com/HankaK-git/Digital-electronics-1)
 
