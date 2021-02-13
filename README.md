@@ -10,4 +10,6 @@ begin
   --fand_o <= a_i and b_i;
   --fxor_o <= a_i xor b_i;
 and architecture dataflow;
+
+https://github.com/HankaK-git/Digital-electronics-1/edit/main/README.md
 ```
